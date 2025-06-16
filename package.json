@@ -1,0 +1,13 @@
+{
+    "name": "AnQing City",
+    "version": "1.0.0",
+    "description": "city view",
+    "scripts": {
+      "start": "live-server src"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+      "live-server": "^1.2.2"
+    }
+  }
